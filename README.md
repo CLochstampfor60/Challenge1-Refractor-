@@ -47,7 +47,7 @@ ___
 
 * URL of the <u>deployed application</u>: [Horiseon](https://toasty-waffles.github.io/Challenge1-Refractor-/)
 
-* URL of the application's <u>GitHub Repository</u>: [Toasty-Waffles](https://github.com/Toasty-Waffles/bootcamp/tree/main/Challenges/Challenge1-Refractoring-Horiseon)
+* URL of the application's <u>GitHub Repository</u>: [Challenge1-Refractor-](https://github.com/Toasty-Waffles?tab=repositories)
 
 ___
 
