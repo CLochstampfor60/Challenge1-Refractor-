@@ -45,7 +45,7 @@ ___
 
 ## Student's Submitted Work:
 
-* URL of the <u>deployed application</u>: [Horiseon](add link to live webpage)
+* URL of the <u>deployed application</u>: [Horiseon](https://toasty-waffles.github.io/Challenge1-Refractor-/)
 
 * URL of the application's <u>GitHub Repository</u>: [Toasty-Waffles](https://github.com/Toasty-Waffles/bootcamp/tree/main/Challenges/Challenge1-Refractoring-Horiseon)
 
