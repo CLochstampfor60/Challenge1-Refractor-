@@ -45,9 +45,9 @@ ___
 
 ## Student's Submitted Work:
 
-* URL of the <u>deployed application</u>: [Horiseon](https://toasty-waffles.github.io/Challenge1-Refractor-/)
+* URL of the <u>deployed application</u>: [Horiseon](https://clochstampfor60.github.io/Challenge1-Refractor-/)
 
-* URL of the application's <u>GitHub Repository</u>: [Challenge1-Refractor-](https://github.com/Toasty-Waffles?tab=repositories)
+* URL of the application's <u>GitHub Repository</u>: [Challenge1-Refractor-](https://github.com/CLochstampfor60?tab=repositories)
 
 ___
 
